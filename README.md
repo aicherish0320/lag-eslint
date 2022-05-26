@@ -25,3 +25,19 @@
 - ESLint 结合自动化工具或者 Webpack
 - 基于 ESLint 的衍生工具
 - StyleLint 工具的使用
+
+## ESLint 按照步骤
+
+- 初始化项目
+- 按照 ESLint 模块为开发依赖
+- 通过 CLI 命令来验证按照结果
+
+## ESLint 快速上手
+
+### ESLint 检查步骤
+
+- 编写“问题”代码
+- 使用 eslint 执行检测
+- 完成 eslint 使用配置
+
+## ESLint 配置注释
