@@ -40,4 +40,27 @@
 - 使用 eslint 执行检测
 - 完成 eslint 使用配置
 
+## ESLint 配置文件解析
+
 ## ESLint 配置注释
+
+- env
+  - browser 浏览器环境中的全局变量
+  - node Node.js 全部变量 和 Node.js 作用域
+  - commonjs CommonJS 全局变量 和 CommonJS 作用域
+  - shared-node-browser Node.js 和 Browser 通用全局变量
+  - es6 - 启用除了 modules 以外的所有 ECMAScript 6 特性
+  - amd
+  - mocha
+  - jasmine
+  - jest
+  - phantomjs
+  - protractor
+  - qunit
+  - jquery
+  - prototypejs
+  - shelljs
+  - meteor
+  - mongo
+  - applescript
+  - nashorn
