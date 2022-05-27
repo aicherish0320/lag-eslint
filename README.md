@@ -73,3 +73,8 @@
 - 与项目统一，管理更加方便
 
 ## ESLint 结合 Webpack
+
+## 现代化项目集成 ESLint
+
+- Line on save：表示 webpack 构建开始进行校验
+- Lint and fix on commit：在 git commit 时校验
