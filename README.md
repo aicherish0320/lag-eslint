@@ -78,3 +78,10 @@
 
 - Line on save：表示 webpack 构建开始进行校验
 - Lint and fix on commit：在 git commit 时校验
+
+## StyleLint 的 认识
+
+- 提供了默认的代码检查规则
+- 提供了 CLI 工具，快速调用
+- 通过插件支持 Sass Less PostCSS
+- 支持 Gulp 或 Webpack 集成

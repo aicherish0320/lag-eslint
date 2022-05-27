@@ -1,0 +1,19 @@
+{
+  "name": "style-lint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "stylelint": "^14.8.5",
+    "stylelint-config-sass-guidelines": "^9.0.1"
+  },
+  "dependencies": {
+    "stylelint-config-standard": "^25.0.0"
+  }
+}
