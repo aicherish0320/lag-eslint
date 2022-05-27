@@ -64,3 +64,10 @@
   - nashorn
 
 ## ESLint 配置注释
+
+- eslint-disable-line 单行注释
+
+## ESLint 结合自动化工具
+
+- 集成之后，ESLint 一定会工作
+- 与项目统一，管理更加方便
