@@ -87,3 +87,10 @@
 - 支持 Gulp 或 Webpack 集成
 
 ## prettier 的使用
+
+## Git Hooks 介绍
+
+- 代码提交至仓库前未执行 lint 工作
+- 通过 Git Hooks 在代码提交前强制 lint
+- Git Hooks 也称之为 git 钩子，每个钩子都对应一个任务
+- 通过 shell 脚本可以编写钩子任务触发时要具体执行的操作
