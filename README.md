@@ -42,8 +42,6 @@
 
 ## ESLint 配置文件解析
 
-## ESLint 配置注释
-
 - env
   - browser 浏览器环境中的全局变量
   - node Node.js 全部变量 和 Node.js 作用域
@@ -64,3 +62,5 @@
   - mongo
   - applescript
   - nashorn
+
+## ESLint 配置注释
