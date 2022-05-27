@@ -85,3 +85,5 @@
 - 提供了 CLI 工具，快速调用
 - 通过插件支持 Sass Less PostCSS
 - 支持 Gulp 或 Webpack 集成
+
+## prettier 的使用
